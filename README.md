@@ -6,23 +6,30 @@ I am a developer focusing on software development, machine learning, and system 
 
 ## Technical Skills
 
-* **Languages:** JavaScript, TypeScript, Python, Java, HTML/CSS
-* **Web & Mobile Technologies:** React, React Native, Next.js, Node.js
-* **AI & Data:** Machine Learning Fundamentals, Large Language Models (LLM)
-* **DevOps & System Tools:** Git, Linux, Docker, CI/CD Pipelines, n8n
-* **Hobbyist Game Development:** Unreal Engine, Unity
-* **Desktop Development:** Java (OOP, Swing)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMS-3D1975?style=for-the-badge&logo=openai&logoColor=white)
 
-## Current Focus & Projects
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD%20Pipelines-8E44AD?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
-* **LLM and Automation Research:** Conducting theoretical and practical studies on the practical use cases of advanced AI models and how these systems can be more efficiently deployed using DevOps practices.
-* **Indie Game Project:** Developing a horror-themed game project using the Unity engine with a small team. In this project, I handle both the design of core mechanics and the character modeling/optimization processes.
-* **Modern Web and Mobile Applications:** Practicing modern architectures by developing scalable client-side (React/Next.js) and server-side (Node.js) projects, as well as mobile interfaces (React Native).
-* **Academic Focus:** * ** Strengthening my foundation in algorithmic problem-solving while actively building scalable web projects using Next.js.
+---
 
-## Get in Touch
+## Some of my projects
 
-You can reach out to me via the links below to discuss my work, projects, or potential collaborations.
+* **LLM Deployment Pipelines** — Automating the full deployment cycle for advanced AI models, focusing on CI/CD for LLMs.
+* **Indie Horror Game** — A Unity-based horror experience, with a focus on immersive mechanics, Blender asset pipelines, and character optimization.
+* **Modern Full-Stack Applications** — Building scalable web and mobile experiences from the ground up using Next.js, Node.js, React, and React Native.
+* **Academic Focus** — Continuing to improve my proficiency in algorithm design and modern web frameworks like Next.js.
 
-* **LinkedIn:** https://www.linkedin.com/in/burç-perçin-02513a2b7/
-* **Email:** burcpercin@gmail.com
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burç-perçin-02513a2b7/)
+[![Email](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burcpercin@gmail.com)
