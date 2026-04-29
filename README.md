@@ -4,7 +4,7 @@
 
 I am a developer focusing on software development, machine learning, and system architectures. While continuing my academic studies, I am actively exploring Large Language Models (LLM), DevOps culture, and **Cloud Computing**, striving to integrate them into modern software lifecycles. Recently, I have also developed a strong interest in learning the fundamentals of **Cybersecurity**. I enjoy being involved in both the infrastructure (operations) and AI-driven research aspects of the development process. By embracing a versatile approach, I build projects that bring together different disciplines of software engineering.
 
-## Technical Skills
+## Technical Focus
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
