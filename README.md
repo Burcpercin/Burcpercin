@@ -18,7 +18,7 @@ I am a developer focusing on software development, machine learning, and system 
 * **LLM and Automation Research:** Conducting theoretical and practical studies on the practical use cases of advanced AI models and how these systems can be more efficiently deployed using DevOps practices.
 * **Indie Game Project:** Developing a horror-themed game project using the Unity engine with a small team. In this project, I handle both the design of core mechanics and the character modeling/optimization processes.
 * **Modern Web and Mobile Applications:** Practicing modern architectures by developing scalable client-side (React/Next.js) and server-side (Node.js) projects, as well as mobile interfaces (React Native).
-* **Academic Focus:** Continuing to improve my proficiency in algorithm design and core programming languages (Java, JS).
+* **Academic Focus:** * ** Strengthening my foundation in algorithmic problem-solving while actively building scalable web projects using Next.js.
 
 ## Get in Touch
 
