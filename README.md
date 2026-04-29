@@ -1,28 +1,28 @@
 # Burç Perçin
 
-## Hakkımda
+## About Me
 
-Yazılım geliştirme, makine öğrenmesi ve sistem mimarileri üzerine odaklanan bir geliştiriciyim. Akademik eğitimimi sürdürürken bir yandan da Büyük Dil Modelleri (LLM) ve DevOps kültürünü inceleyerek modern yazılım döngülerine entegre etmeye çalışıyorum. Geliştirme süreçlerinin hem altyapı (operasyon) hem de yapay zeka odaklı araştırma kısımlarında yer almaktan keyif alıyorum. Çok yönlü çalışmayı benimseyerek yazılım mühendisliğinin farklı disiplinlerini bir araya getiren projeler üretiyorum.
+I am a developer focusing on software development, machine learning, and system architectures. While continuing my academic studies, I am exploring Large Language Models (LLM) and DevOps culture, striving to integrate them into modern software lifecycles. I enjoy being involved in both the infrastructure (operations) and AI-driven research aspects of the development process. Embracing a versatile approach, I build projects that bring together different disciplines of software engineering.
 
-## Teknik Yetkinlikler
+## Technical Skills
 
-* **Diller:** JavaScript, TypeScript, Python, Java, HTML/CSS
-* **Web & Mobil Teknolojileri:** React, React Native, Next.js, Node.js
-* **Yapay Zeka & Veri:** Machine Learning Temelleri, Large Language Models (LLM)
-* **DevOps & Sistem Araçları:** Git, Linux, Docker, CI/CD Süreçleri, n8n
-* **Amatör Oyun Geliştirme:** Unreal Engine, Unity
-* **Masaüstü Geliştirme:** Java (OOP, Swing)
+* **Languages:** JavaScript, TypeScript, Python, Java, HTML/CSS
+* **Web & Mobile Technologies:** React, React Native, Next.js, Node.js
+* **AI & Data:** Machine Learning Fundamentals, Large Language Models (LLM)
+* **DevOps & System Tools:** Git, Linux, Docker, CI/CD Pipelines, n8n
+* **Hobbyist Game Development:** Unreal Engine, Unity
+* **Desktop Development:** Java (OOP, Swing)
 
-## Üzerinde Çalıştığım Konular ve Projeler
+## Current Focus & Projects
 
-* **LLM ve Otomasyon Araştırmaları:** Gelişmiş yapay zeka modellerinin pratik kullanım senaryoları ve bu sistemlerin DevOps pratikleriyle nasıl daha verimli dağıtılabileceği üzerine teorik ve pratik çalışmalar yapıyorum.
-* **Bağımsız Oyun Projesi:** Küçük bir ekiple birlikte Unity altyapısını kullanarak korku temalı bir oyun projesi geliştiriyoruz. Bu projede hem mekaniklerin kurgulanması hem de karakter modelleme/optimizasyon süreçlerini yürütüyorum.
-* **Modern Web ve Mobil Uygulamalar:** İstemci (React/Next.js) ve sunucu (Node.js) tarafında ölçeklenebilir projeler ile mobil (React Native) arayüzler geliştirerek modern mimarilerde pratik yapıyorum.
-* **Akademik Hazırlıklar:** Algoritma tasarımı ve temel programlama dilleri (Java, JS) üzerindeki yetkinliğimi geliştirmeye devam ediyorum.
+* **LLM and Automation Research:** Conducting theoretical and practical studies on the practical use cases of advanced AI models and how these systems can be more efficiently deployed using DevOps practices.
+* **Indie Game Project:** Developing a horror-themed game project using the Unity engine with a small team. In this project, I handle both the design of core mechanics and the character modeling/optimization processes.
+* **Modern Web and Mobile Applications:** Practicing modern architectures by developing scalable client-side (React/Next.js) and server-side (Node.js) projects, as well as mobile interfaces (React Native).
+* **Academic Focus:** Continuing to improve my proficiency in algorithm design and core programming languages (Java, JS).
 
-## İletişim ve Bağlantılar
+## Get in Touch
 
-Çalışmalarım, projelerim veya olası işbirlikleri hakkında konuşmak için bana aşağıdaki bağlantılardan ulaşabilirsiniz.
+You can reach out to me via the links below to discuss my work, projects, or potential collaborations.
 
 * **LinkedIn:** https://www.linkedin.com/in/burç-perçin-02513a2b7/
-* **E-posta:** burcpercin@gmail.com
+* **Email:** burcpercin@gmail.com
