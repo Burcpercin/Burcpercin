@@ -2,7 +2,7 @@
 
 ## Hakkımda
 
-Yazılım geliştirme, makine öğrenmesi ve sistem mimarileri üzerine odaklanan bir geliştiriciyim. Akademik eğitimimi sürdürürken bir yandan da Büyük Dil Modelleri (LLM) ve DevOps kültürünü inceleyerek modern yazılım döngülerine entegre etmeye çalışıyorum. Geliştirme süreçlerinin hem altyapı (operasyon) hem de yapay zeka odaklı araştırma kısımlarında yer almaktan keyif alıyorum. Çok yönlü çalışmayı benimsediğim için yazılım mühendisliğinin farklı disiplinlerini bir araya getiren projeler üretiyorum.
+Yazılım geliştirme, makine öğrenmesi ve sistem mimarileri üzerine odaklanan bir geliştiriciyim. Akademik eğitimimi sürdürürken bir yandan da Büyük Dil Modelleri (LLM) ve DevOps kültürünü inceleyerek modern yazılım döngülerine entegre etmeye çalışıyorum. Geliştirme süreçlerinin hem altyapı (operasyon) hem de yapay zeka odaklı araştırma kısımlarında yer almaktan keyif alıyorum. Çok yönlü çalışmayı benimseyerek yazılım mühendisliğinin farklı disiplinlerini bir araya getiren projeler üretiyorum.
 
 ## Teknik Yetkinlikler
 
