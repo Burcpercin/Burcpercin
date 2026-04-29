@@ -17,7 +17,7 @@ I am a developer focusing on software development, machine learning, and system 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![AI Basics](https://img.shields.io/badge/AI_%26_LLM_Basics-3D1975?style=for-the-badge&logo=openai&logoColor=white)
+![AI Basics](https://img.shields.io/badge/AI_%26_ML_%26_LLM_Basics-3D1975?style=for-the-badge&logo=openai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation_%26_DevOps-8E44AD?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Basics-1A1A1A?style=for-the-badge)
 
