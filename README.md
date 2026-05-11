@@ -17,13 +17,13 @@ While continuing my academic studies, I am actively exploring Large Language Mod
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloud Basics](https://img.shields.io/badge/Cloud_Basics-0089D6?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 ### AI / ML / Automation
-![AI Basics](https://img.shields.io/badge/AI_%26_LLM_Basics-3D1975?style=for-the-badge&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Automation](https://img.shields.io/badge/Automation_%26_DevOps-8E44AD?style=for-the-badge)
+![AI Basics](https://img.shields.io/badge/AI_%26_LLM_Basics-3D1975?style=for-the-badge&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Workflow & Interests
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Basics-1A1A1A?style=for-the-badge)
+### Interests
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Basics-1A1A1A?style=for-the-badge) ![Cloud Basics](https://img.shields.io/badge/Cloud_Basics-0089D6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
